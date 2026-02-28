@@ -1,0 +1,302 @@
+[
+    {
+        "id": "senior_audio_create_reminder_0",
+        "transcription_attendue": "Euh... rappelle-moi de يما... ben à 8 heures.",
+        "intention_cible": "create_reminder",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_create_reminder_1",
+        "transcription_attendue": "Ah oui... fakkarni bech acheter du pain euh... à 8 heures.",
+        "intention_cible": "create_reminder",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_create_reminder_2",
+        "transcription_attendue": "Ntiya... euh... n'oublie pas de prendre mes pilules tout de suite.",
+        "intention_cible": "create_reminder",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_create_reminder_3",
+        "transcription_attendue": "Aman... ذكرني باش يما euh... demain matin.",
+        "intention_cible": "create_reminder",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_create_reminder_4",
+        "transcription_attendue": "Euuuh rappelles-moi acheter du pain mmmm el 3chiya.",
+        "intention_cible": "create_reminder",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_call_contact_0",
+        "transcription_attendue": "Euh... appelle euh... le docteur.",
+        "intention_cible": "call_contact",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_call_contact_1",
+        "transcription_attendue": "Nحب نكلم euh... mon fils... s'il te plaît.",
+        "intention_cible": "call_contact",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_call_contact_2",
+        "transcription_attendue": "Aman... appelili Mohamed euh... tawa.",
+        "intention_cible": "call_contact",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_call_contact_3",
+        "transcription_attendue": "Euh... 3ayet l ma fille... bah... wa9teli najam.",
+        "intention_cible": "call_contact",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_call_contact_4",
+        "transcription_attendue": "S'il te plaît... euh... contacte le docteur.",
+        "intention_cible": "call_contact",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_get_weather_0",
+        "transcription_attendue": "Euh... quel temps euh... il fait aujourd'hui ?",
+        "intention_cible": "get_weather",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_get_weather_1",
+        "transcription_attendue": "Chnowa el ta9s euh... lyoum ?",
+        "intention_cible": "get_weather",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_get_weather_2",
+        "transcription_attendue": "Bah... est-ce qu'il pleut euh... tawa ?",
+        "intention_cible": "get_weather",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_get_weather_3",
+        "transcription_attendue": "Za3ma... euh... la météo euh... demain ?",
+        "intention_cible": "get_weather",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_get_weather_4",
+        "transcription_attendue": "Mmmm... il fait chaud... euh... dehors ?",
+        "intention_cible": "get_weather",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_get_time_0",
+        "transcription_attendue": "Euh... quelle heure euh... est-il ?",
+        "intention_cible": "get_time",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_get_time_1",
+        "transcription_attendue": "Aman... 9adech lwa9t euh... tawa ?",
+        "intention_cible": "get_time",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_get_time_2",
+        "transcription_attendue": "Euh... saa9a... euh... 9adech ?",
+        "intention_cible": "get_time",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_get_time_3",
+        "transcription_attendue": "Il est quelle heure euh... s'il te plaît ?",
+        "intention_cible": "get_time",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_get_time_4",
+        "transcription_attendue": "Mmmm... c'est quoi... euh... l'heure ?",
+        "intention_cible": "get_time",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_add_medication_0",
+        "transcription_attendue": "Euh... je dois prendre mon euh... le traitement à demain matin.",
+        "intention_cible": "add_medication",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_add_medication_1",
+        "transcription_attendue": "Aman... n9ayed l dwe mte3i... euh... Doliprane à 8 heures.",
+        "intention_cible": "add_medication",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_add_medication_2",
+        "transcription_attendue": "N'oublie pas euh... mon cachet de Doliprane... à demain matin.",
+        "intention_cible": "add_medication",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_add_medication_3",
+        "transcription_attendue": "Euh... ajouter le médicament... euh... Aspirine.",
+        "intention_cible": "add_medication",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_add_medication_4",
+        "transcription_attendue": "Ah... la pilule de mon sirop... euh... à prendre à 8 heures.",
+        "intention_cible": "add_medication",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_read_messages_0",
+        "transcription_attendue": "Euh... lis mes messages euh...",
+        "intention_cible": "read_messages",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_read_messages_1",
+        "transcription_attendue": "Aman... a9rali l messages mte3i euh...",
+        "intention_cible": "read_messages",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_read_messages_2",
+        "transcription_attendue": "Est-ce que... euh... j'ai des nouveaux messages ?",
+        "intention_cible": "read_messages",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_read_messages_3",
+        "transcription_attendue": "Euh... choufli chkoun b3athli msg...",
+        "intention_cible": "read_messages",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_read_messages_4",
+        "transcription_attendue": "Bah... euh... lis-moi le dernier message.",
+        "intention_cible": "read_messages",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_send_message_0",
+        "transcription_attendue": "Euh... envoie un message euh... à mon fils.",
+        "intention_cible": "send_message",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_send_message_1",
+        "transcription_attendue": "Aman... ab3ath msg l ma fille euh... tawa.",
+        "intention_cible": "send_message",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_send_message_2",
+        "transcription_attendue": "Euh... dis à mon fils... euh... que je l'attends.",
+        "intention_cible": "send_message",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_send_message_3",
+        "transcription_attendue": "Ah... écrire à ma fille... euh... s'il te plaît.",
+        "intention_cible": "send_message",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_send_message_4",
+        "transcription_attendue": "Euh... ابعث مساج ل le docteur...",
+        "intention_cible": "send_message",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_set_alarm_0",
+        "transcription_attendue": "Euh... mets une alarme euh... à à midi.",
+        "intention_cible": "set_alarm",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_set_alarm_1",
+        "transcription_attendue": "Aman... faya9ni euh... demain matin.",
+        "intention_cible": "set_alarm",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_set_alarm_2",
+        "transcription_attendue": "Mets le réveil euh... s'il te plaît... à à midi.",
+        "intention_cible": "set_alarm",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_set_alarm_3",
+        "transcription_attendue": "Euh... réveille-moi à... euh... à 8 heures.",
+        "intention_cible": "set_alarm",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_set_alarm_4",
+        "transcription_attendue": "Ah... منبه على الساعة euh... el 3chiya.",
+        "intention_cible": "set_alarm",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_check_agenda_0",
+        "transcription_attendue": "Euh... qu'est-ce que j'ai prévu euh... aujourd'hui ?",
+        "intention_cible": "check_agenda",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_check_agenda_1",
+        "transcription_attendue": "Aman... chnowa el programme euh... lyoum ?",
+        "intention_cible": "check_agenda",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_check_agenda_2",
+        "transcription_attendue": "Euh... mon agenda... euh... s'il te plaît.",
+        "intention_cible": "check_agenda",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_check_agenda_3",
+        "transcription_attendue": "Quels sont mes rendez-vous... euh... demain ?",
+        "intention_cible": "check_agenda",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_check_agenda_4",
+        "transcription_attendue": "Euh... عندي مواعيد اليوم ?",
+        "intention_cible": "check_agenda",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_emergency_alert_0",
+        "transcription_attendue": "Euh... au secours... ehm...",
+        "intention_cible": "emergency_alert",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_emergency_alert_1",
+        "transcription_attendue": "Aman... 3awni... euh... je me sens pas bien.",
+        "intention_cible": "emergency_alert",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_emergency_alert_2",
+        "transcription_attendue": "J'ai besoin d'aide... euh... urgence !",
+        "intention_cible": "emergency_alert",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_emergency_alert_3",
+        "transcription_attendue": "Euh... appel le samu... vite...",
+        "intention_cible": "emergency_alert",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    },
+    {
+        "id": "senior_audio_emergency_alert_4",
+        "transcription_attendue": "Ah... je suis tombée... euh... à l'aide...",
+        "intention_cible": "emergency_alert",
+        "notes": "Voix chevrotante (euh), mélange de dialecte tunisien et de français."
+    }
+]
